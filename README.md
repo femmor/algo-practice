@@ -19,4 +19,6 @@ This is a repository of all the data structures and algorithms I have solved in 
 14. Where do I Belong
 15. Mutations
 16. Chunky Monkey
-17. 
+
+### Intermediate Algorithms
+
