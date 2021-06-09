@@ -1,6 +1,6 @@
 # Data structure and algorithms practice
 
-This is a repository of all the data structures and algorithms I have solved in no particular order.
+This is a repository of all the data structures and algorithms I have solved in no particular order. These are my own solutions so if you have better solutions please add it to the repository and it will be greatly appreciated.
 
 ### Basic Algorithms
 1. Convert Celsius to Fahrenheit
