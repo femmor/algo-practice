@@ -3,14 +3,14 @@
 
 
 function titleCase(str) {
-  const capital = []
+  const newStr = []
   str.split(' ').forEach(item => {
     const lower = item.slice(0, item.length).toLowerCase()
     const upper = item.slice(0, 1).toUpperCase()
     const newWord = upper + lower.slice(1)
     capital.push(newWord)
   })
-  return capital.join(' ')
+  return newStr.join(' ')
 }
 
 titleCase("I'm a little tea pot");
