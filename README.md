@@ -22,4 +22,5 @@ This is a repository of all the data structures and algorithms I have solved in 
 
 ### Intermediate Algorithms
 1. Sum All Numbers in a Range
+2. Diff Two Arrays
 
