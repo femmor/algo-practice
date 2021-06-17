@@ -21,4 +21,5 @@ This is a repository of all the data structures and algorithms I have solved in 
 16. Chunky Monkey
 
 ### Intermediate Algorithms
+1. Sum All Numbers in a Range
 
