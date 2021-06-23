@@ -19,9 +19,27 @@ This is a repository of all the data structures and algorithms I have solved in 
 14. Where do I Belong
 15. Mutations
 16. Chunky Monkey
+17. Test Start and End
+18. Maskify
+19. FizzBuzz
+20. Remove First Letter
+21. Old Enough To Drink
+22. Even Numbers
+23. Capitalize First Letter
 
 ### Intermediate Algorithms
 1. Sum All Numbers in a Range
 2. Diff Two Arrays
 3. Seek and Destroy
+4. Return Array of Objects with Matching name and value pair
+5. Spinal Tap Case
+6. Translate Pig Latin
+7. Search and Replace
+8. Repeat Strings Number of Times
+9. Recursion - Sum All Numbers To N
+10. Factorial
+11. Insert Item Into An Array
+12. Franken Splice
+13. Fibonacci Number
+14. Get All The Es
 
