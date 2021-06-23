@@ -9,10 +9,3 @@ function myReplace(str, before, after) {
 }
 
 myReplace("A quick brown fox jumped over the lazy dog", "jumped", "leaped");
-
-const str1 = "The cat is running away"
-const str2 = "This is not a dog"
-
-const hasCat = /cat/
-hasCat.test(str1)
-hasCat.test(str2)
